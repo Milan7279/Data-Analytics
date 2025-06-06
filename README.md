@@ -86,11 +86,6 @@ Predicted Disease: Flu
 
 ---
 
-## 👤 Author
-
-**Your Name**  
-Semester IV, B.Tech  
-[Your College Name]
 
 ---
 
